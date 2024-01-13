@@ -153,6 +153,10 @@ name {
   -webkit-transition: opacity 0.2s ease-in-out;
 }
 
+.page__content {
+
+  text-align: justify;
+
 span.highlight {
   background-color: #ffffd0;
 }
