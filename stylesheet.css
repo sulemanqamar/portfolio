@@ -105,7 +105,9 @@ body,
 td,
 th,
 tr,
-p,
+p{
+    text-align: justify;
+}
 a {
   font-family: "Lato", Verdana, Helvetica, sans-serif;
   font-size: 14px;
